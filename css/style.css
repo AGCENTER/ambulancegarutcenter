@@ -460,9 +460,9 @@
   }
   
   /* Mobile Phone */
-  @media (max-width: 1000px) {
+  @media (max-width: 600px) {
     html {
-      font-size: 55%;
+      font-size: 45%;
     }
   
   }
